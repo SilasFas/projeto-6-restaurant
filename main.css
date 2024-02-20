@@ -20,13 +20,18 @@ body {
     color: white;
 }
 
-.navbar-brand {
-    font-family: "Pacifico", cursive;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.navbar-toggler{
+.navbar-toggler {
     background-color: #ffeae6;
 }
 
+.section-tittle {
+    font-family: "Pacifico", cursive;
+}
+
+.section-tittle span {
+    color: #e15f41;
+}
+
+#sobre-o-restaurante {
+    background-color: #ffeae6;
+}
