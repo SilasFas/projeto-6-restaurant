@@ -24,14 +24,14 @@ body {
     background-color: #ffeae6;
 }
 
-.section-tittle {
+.section-title {
     font-family: "Pacifico", cursive;
-}
-
-.section-tittle span {
-    color: #e15f41;
 }
 
 #sobre-o-restaurante {
     background-color: #ffeae6;
+}
+
+.text-colored {
+    color: #e15f41;
 }
